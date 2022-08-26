@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazored.Typeahead" Path="C:\Users\Marko\.nuget\packages\blazored.typeahead\4.7.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\Marko\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.13\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Marko\OneDrive - Vsite -Visoka škola za informacijske tehnologije\Documents\PIN\Shop\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Marko\OneDrive - Vsite -Visoka škola za informacijske tehnologije\Documents\PIN\Shop\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
